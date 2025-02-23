@@ -1,0 +1,1 @@
+Note: I Apologize i submitted the outdated screenshots in the canvas late at night, since it is only 1st attempt i cant upload anymore, i decided to upload the updated screenshots here in the github repository within deadline and on time before 11 pm on Febuary 23, 2025, Thank you so much for understanding <3 uwu
