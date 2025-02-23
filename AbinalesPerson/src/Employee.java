@@ -1,4 +1,4 @@
-// Employee.java
+// Inheritance: Creating a subclass
 public class Employee extends Person {
     private String department;
 

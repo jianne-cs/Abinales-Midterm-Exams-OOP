@@ -1,4 +1,5 @@
-class Person {
+// Encapsulation: Hiding data and showing only necessary information
+public class Person {
     private String name;
     private int age;
 
