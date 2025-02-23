@@ -1,5 +1,5 @@
 // Encapsulation: Hiding data and showing only necessary information
-class Dog {
+public class Dog {
     private String name;
     private String breed;
 
@@ -33,4 +33,3 @@ class Dog {
         return "Name: " + name + ", Breed: " + breed;
     }
 }
-
